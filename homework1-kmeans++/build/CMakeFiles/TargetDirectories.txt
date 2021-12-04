@@ -1,0 +1,4 @@
+/Users/caosongpeng/Desktop/kmeans++/build/CMakeFiles/test_k_means.dir
+/Users/caosongpeng/Desktop/kmeans++/build/CMakeFiles/rebuild_cache.dir
+/Users/caosongpeng/Desktop/kmeans++/build/CMakeFiles/edit_cache.dir
+/Users/caosongpeng/Desktop/kmeans++/build/CMakeFiles/k_means.dir
